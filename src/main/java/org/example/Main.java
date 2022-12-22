@@ -12,7 +12,7 @@ public class Main {
 
         driver.navigate().to("https://rahulshettyacademy.com/");
 
-        driver.manage().window().maximize();
+        driver.manage().window().maximize();;
 
 
 

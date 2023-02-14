@@ -15,7 +15,7 @@ public class Main {
 
         driver.manage().window().maximize();
 
-        driver.findElement(By.id("email")).sendKeys("twakkie.2@gmail.com");
+        driver.findElement(By.id("email")).sendKeys("");
 
 
 
